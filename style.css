@@ -338,9 +338,3 @@ footer .column>a:hover {
     }
 }
 
-@media (width < 400px) {
-    .image {
-        height: 100%;
-        width: auto;
-    }
-}
